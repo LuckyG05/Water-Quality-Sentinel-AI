@@ -32,11 +32,11 @@ This project is an end-to-end Data Science and Business Intelligence solution de
 
 Initial exploratory data analysis showed weak linear correlations, necessitating a machine learning approach to identify hidden safety patterns.
 
-![The Correlation Heatmap](<img width="562" height="504" alt="Screenshot 2026-03-08 222029" src="https://github.com/user-attachments/assets/8b741fbc-3aaa-4112-b406-72ee43d14992" />)
+![The Correlation Heatmap]<img width="562" height="504" alt="Screenshot 2026-03-08 222029" src="https://github.com/user-attachments/assets/8b741fbc-3aaa-4112-b406-72ee43d14992" />
 
 **Random Forest Feature Importance:**  Mathematically identifying Sulfate and pH as the primary indicators for global water safety
 
-[Feature Importance](<img width="556" height="483" alt="Screenshot 2026-03-08 222125" src="https://github.com/user-attachments/assets/daceb604-31e8-40a7-87f2-64faabd93a25" />)
+[Feature Importance]<img width="556" height="483" alt="Screenshot 2026-03-08 222125" src="https://github.com/user-attachments/assets/daceb604-31e8-40a7-87f2-64faabd93a25" />
 
 ### 2. Interactive Risk Dashboard
 *A comprehensive view of global water safety using Power BI. Green represents safe zones, while Red highlights at-risk areas.*
