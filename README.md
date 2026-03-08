@@ -25,7 +25,7 @@ This project is an end-to-end Data Science and Business Intelligence solution de
 - `Final_Water_Quality_Data.csv`: Pre-processed dataset for visualization.
 - `Water_Quality_Dashboard.pbix`: Interactive Power BI dashboard file.
 
-## 🖼️ Project Visuals
+## Project Visuals
 
 ### 1. AI Model Insights
 *The Random Forest model identified Sulfate and pH as the most critical factors for water potability.*
