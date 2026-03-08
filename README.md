@@ -1,4 +1,4 @@
-# Global Water Quality Sentinel: AI Risk Assessment
+# Global Water Quality Sentinel: AI Risk Assessment 
 
 ## Project Overview
 This project is an end-to-end Data Science and Business Intelligence solution developed during my **Microsoft Elevate Internship**. The goal is to predict water potability using Machine Learning and provide real-time risk analysis through an interactive Power BI dashboard.
